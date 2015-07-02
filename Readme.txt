@@ -119,3 +119,5 @@ Management Group, Inc. Object Request Broker, OMG IDL, ORB, CORBA
 are trademarks of the Object Management Group, Inc. Microsoft, .NET 
 are trademarks of Microsoft Corp.
 
+1. Added ir/orb idls to IDL folder
+2. Worked around bug [https://sourceforge.net/p/iiop-net/bugs/86/]
